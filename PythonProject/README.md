@@ -23,9 +23,18 @@ Setup Instructions
     pytest --html=reports/test_report.html 
     This will generate a detailed test execution report in the root folder.
 
+
 Files Overview
-tests/: Contains the test case files for different functionalities.
-pages/: Contains Page Object Model (POM) files that handle page elements and actions.
-utils/: Contains utility functions like configuration and helper functions.
-conftest.py: Contains global pytest fixtures for setting up browser configurations.
-pytest.ini: Pytest configuration for test settings.
+
+1.  tests/: Contains the test case files for different functionalities.
+2. pages/: Contains Page Object Model (POM) files that handle page elements and actions.
+3. utils/: Contains utility functions like configuration and helper functions.
+4. conftest.py: Contains global pytest fixtures for setting up browser configurations.
+5. pytest.ini: Pytest configuration for test settings.
+
+
+
+
+
+
+
